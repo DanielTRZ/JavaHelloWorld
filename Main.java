@@ -4,7 +4,6 @@ public class Main {
 
 	public static void main(String[] args) {
 		System.out.println("Hello Daniel");
-       
 		
 		int age = 27;
 		age = age +1;
@@ -13,55 +12,52 @@ public class Main {
 		
 		boolean isAdmin = true;
 		boolean userCanOpenPage = age >= 18 && isAdmin ;
-		
-		
+				
 		
 		if(userCanOpenPage) {
 			System.out.println("Masz 18");
 		}else {
 			System.out.println("Nie masz 18");
 		}
-		
-		
+				
 		double randomNumber = Math.random();
 		boolean czyWygrana = randomNumber >= 0.8 ;
 		boolean czyWygrana2 = randomNumber >= 0.6;
 		
 		
 		if(czyWygrana) {
-			System.out.println("Wygra≥eú 1 nagrodÍ");}
+			System.out.println("Wygra≈Çe≈õ 1 nagrodƒô");}
 		else if(czyWygrana2) {
-			System.out.println("Wygra≥eú 2 nagrodÍ");
+			System.out.println("Wygra≈Çe≈õ 2 nagrodƒô");
 		}
 		else {
-			System.out.println("Nie wygra≥eú");
+			System.out.println("Nie wygra≈Çe≈õ");
 		}
 		
 		
 		if(czyWygrana) {
-			System.out.println("Wygra≥eú 1 nagrodÍ");}
+			System.out.println("Wygra≈Çe≈õ 1 nagrodƒô");}
 		
 		if(czyWygrana2) {
-			System.out.println("Wygra≥eú 2 nagrodÍ");
+			System.out.println("Wygra≈Çe≈õ 2 nagrodƒô");
 		}
 		else {
-			System.out.println("Nie wygra≥eú");
+			System.out.println("Nie wygra≈Çe≈õ");
 		}
 		
 		
 		if(randomNumber >= 0.6) {
-			System.out.println("Wygra≥eú 2 nagrodÍ");}
+			System.out.println("Wygra≈Çe≈õ 2 nagrodƒô");}
 		
 		if(randomNumber >= 0.8) {
-			System.out.println("Wygra≥eú 1 nagrodÍ");
+			System.out.println("Wygra≈Çe≈õ 1 nagrodƒô");
 		}
 		else {
-			System.out.println("Nie wygra≥eú");
+			System.out.println("Nie wygra≈Çe≈õ");
 		}
+			
 		
-	
-		
-		String[] namesOfParticipants = {"Monika","Klaudia","Iwona","Ma≥gosia","Asia"};
+		String[] namesOfParticipants = {"Monika","Klaudia","Iwona","Ma≈Çgosia","Asia"};
 		System.out.println(namesOfParticipants[1]);
 		System.out.println(namesOfParticipants.length);
 		
@@ -70,15 +66,14 @@ public class Main {
 		System.out.println(namesOfParticipants[0]);
 		
 		System.out.println(Arrays.toString(namesOfParticipants));
-		
-		
+			
 		
 		String[] userCars = new String[4];
 		userCars[0] = "Fiat Panda";
 		userCars[1] = "Mercedes";
 		userCars[2] = "Bmw";
 		userCars[3] = "Audi";
-		System.out.println( "Samochody do wypoøyczenia  :" + Arrays.toString(userCars));
+		System.out.println( "Samochody do wypo≈ºyczenia  :" + Arrays.toString(userCars));
 		
 		
 		
@@ -87,7 +82,7 @@ public class Main {
 		wiekUzytkownikow[1] = "Lat 36";
 		wiekUzytkownikow[2] = "Lat 40";
 		wiekUzytkownikow[3] = "Lat 56";
-		System.out.println( "Wiek UøytkownikÛw" + Arrays.toString(wiekUzytkownikow));
+		System.out.println( "Wiek U≈ºytkownik√≥w" + Arrays.toString(wiekUzytkownikow));
 		
 		
 		 int liczba = 1; 
@@ -103,9 +98,9 @@ public class Main {
 			  System.out.println("Wylosowana liczba to :" + liczba2);
 			 liczba2 = Math.random(); 
 		      }
-		      System.out.println("Wygra≥eú liczba to :" + liczba2);
+		      System.out.println("Wygra≈Çe≈õ liczba to :" + liczba2);
 		
-		 String[] dziewczyny = {"Monika","Klaudia","Iwona","Ma≥gosia","Asia"};
+		 String[] dziewczyny = {"Monika","Klaudia","Iwona","Ma≈Çgosia","Asia"};
 		 for(int index = 0 ; index < 5; index++) {
 			 System.out.println(dziewczyny[index]);
 		 }
