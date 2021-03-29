@@ -45,7 +45,6 @@ public class Main {
 			System.out.println("Nie wygrałeś");
 		}
 		
-		
 		if(randomNumber >= 0.6) {
 			System.out.println("Wygrałeś 2 nagrodę");}
 		
@@ -60,13 +59,11 @@ public class Main {
 		String[] namesOfParticipants = {"Monika","Klaudia","Iwona","Małgosia","Asia"};
 		System.out.println(namesOfParticipants[1]);
 		System.out.println(namesOfParticipants.length);
-		
-		
+			
 		namesOfParticipants[0] = "Ela";
 		System.out.println(namesOfParticipants[0]);
 		
-		System.out.println(Arrays.toString(namesOfParticipants));
-			
+		System.out.println(Arrays.toString(namesOfParticipants));	
 		
 		String[] userCars = new String[4];
 		userCars[0] = "Fiat Panda";
@@ -74,8 +71,6 @@ public class Main {
 		userCars[2] = "Bmw";
 		userCars[3] = "Audi";
 		System.out.println( "Samochody do wypożyczenia  :" + Arrays.toString(userCars));
-		
-		
 		
 		String[] wiekUzytkownikow = new String[4];
 		wiekUzytkownikow[0] = "Lat 25";
