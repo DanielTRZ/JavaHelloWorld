@@ -79,7 +79,6 @@ public class Main {
 		wiekUzytkownikow[3] = "Lat 56";
 		System.out.println( "Wiek Użytkowników" + Arrays.toString(wiekUzytkownikow));
 		
-		
 		 int liczba = 1; 
 		 while(liczba <= 5) {
 			 
