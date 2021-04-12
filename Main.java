@@ -13,7 +13,6 @@ public class Main {
 		boolean isAdmin = true;
 		boolean userCanOpenPage = age >= 18 && isAdmin ;
 				
-		
 		if(userCanOpenPage) {
 			System.out.println("Masz 18");
 		}else {
@@ -23,8 +22,7 @@ public class Main {
 		double randomNumber = Math.random();
 		boolean czyWygrana = randomNumber >= 0.8 ;
 		boolean czyWygrana2 = randomNumber >= 0.6;
-		
-		
+			
 		if(czyWygrana) {
 			System.out.println("Wygrałeś 1 nagrodę");}
 		else if(czyWygrana2) {
@@ -104,8 +102,7 @@ public class Main {
 		
 		//boolean czyImionasaTeSame = name1 == name2; 
 	
-		
-		
+			
 	}
 
 }
