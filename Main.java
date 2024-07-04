@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class Main {
 public static void main(String[] args) {
-		System.out.println("Hello Daniel");
+System.out.println("Hello Daniel");
 		
 		int age = 27;
 		age = age +1;
