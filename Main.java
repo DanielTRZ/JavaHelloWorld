@@ -32,7 +32,7 @@ System.out.println("Nie wygrałeś");
 }
 		
 if(czyWygrana) {
-			System.out.println("Wygrałeś 1 nagrodę");}
+System.out.println("Wygrałeś 1 nagrodę");}
 		
 		if(czyWygrana2) {
 			System.out.println("Wygrałeś 2 nagrodę");
