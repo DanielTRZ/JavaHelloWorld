@@ -12,7 +12,7 @@ age ++;
 boolean isAdmin = true;
 boolean userCanOpenPage = age >= 18 && isAdmin ;
 				
-		if(userCanOpenPage) {
+if(userCanOpenPage) {
 			System.out.println("Masz 18");
 		}else {
 			System.out.println("Nie masz 18");
