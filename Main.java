@@ -28,7 +28,7 @@ else if(czyWygrana2) {
 System.out.println("Wygrałeś 2 nagrodę");
 }
 else {
-			System.out.println("Nie wygrałeś");
+System.out.println("Nie wygrałeś");
 		}
 		
 		
