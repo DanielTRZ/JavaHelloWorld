@@ -9,7 +9,7 @@ age = age +1;
 age += 1; 
 age ++;
 		
-		boolean isAdmin = true;
+boolean isAdmin = true;
 		boolean userCanOpenPage = age >= 18 && isAdmin ;
 				
 		if(userCanOpenPage) {
