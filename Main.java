@@ -23,7 +23,7 @@ boolean czyWygrana = randomNumber >= 0.8 ;
 boolean czyWygrana2 = randomNumber >= 0.6;
 			
 if(czyWygrana) {
-			System.out.println("Wygrałeś 1 nagrodę");}
+System.out.println("Wygrałeś 1 nagrodę");}
 		else if(czyWygrana2) {
 			System.out.println("Wygrałeś 2 nagrodę");
 		}
