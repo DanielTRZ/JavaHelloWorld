@@ -6,7 +6,7 @@ System.out.println("Hello Daniel");
 		
 int age = 27;
 age = age +1;
-		age += 1; 
+age += 1; 
 		age ++;
 		
 		boolean isAdmin = true;
