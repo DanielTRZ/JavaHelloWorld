@@ -20,7 +20,7 @@ System.out.println("Nie masz 18");
 				
 double randomNumber = Math.random();
 boolean czyWygrana = randomNumber >= 0.8 ;
-		boolean czyWygrana2 = randomNumber >= 0.6;
+boolean czyWygrana2 = randomNumber >= 0.6;
 			
 		if(czyWygrana) {
 			System.out.println("Wygrałeś 1 nagrodę");}
