@@ -19,7 +19,7 @@ System.out.println("Nie masz 18");
 }
 				
 double randomNumber = Math.random();
-		boolean czyWygrana = randomNumber >= 0.8 ;
+boolean czyWygrana = randomNumber >= 0.8 ;
 		boolean czyWygrana2 = randomNumber >= 0.6;
 			
 		if(czyWygrana) {
