@@ -7,7 +7,7 @@ System.out.println("Hello Daniel");
 int age = 27;
 age = age +1;
 age += 1; 
-		age ++;
+age ++;
 		
 		boolean isAdmin = true;
 		boolean userCanOpenPage = age >= 18 && isAdmin ;
