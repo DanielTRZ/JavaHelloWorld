@@ -4,7 +4,7 @@ public class Main {
 public static void main(String[] args) {
 System.out.println("Hello Daniel");
 		
-		int age = 27;
+int age = 27;
 		age = age +1;
 		age += 1; 
 		age ++;
