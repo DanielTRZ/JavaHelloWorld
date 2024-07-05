@@ -50,8 +50,7 @@ else {
 System.out.println("Nie wygrałeś");
 }
 			
-		
-		String[] namesOfParticipants = {"Monika","Klaudia","Iwona","Małgosia","Asia"};
+String[] namesOfParticipants = {"Monika","Klaudia","Iwona","Małgosia","Asia"};
 		System.out.println(namesOfParticipants[1]);
 		System.out.println(namesOfParticipants.length);
 			
