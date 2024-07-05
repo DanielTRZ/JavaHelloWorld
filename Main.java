@@ -48,7 +48,7 @@ System.out.println("Wygrałeś 1 nagrodę");
 }
 else {
 System.out.println("Nie wygrałeś");
-		}
+}
 			
 		
 		String[] namesOfParticipants = {"Monika","Klaudia","Iwona","Małgosia","Asia"};
