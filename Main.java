@@ -39,7 +39,7 @@ System.out.println("Wygrałeś 2 nagrodę");
 }
 else {
 System.out.println("Nie wygrałeś");
-		}
+}
 		
 		if(randomNumber >= 0.6) {
 			System.out.println("Wygrałeś 2 nagrodę");}
