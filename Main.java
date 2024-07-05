@@ -51,7 +51,7 @@ System.out.println("Nie wygrałeś");
 }
 			
 String[] namesOfParticipants = {"Monika","Klaudia","Iwona","Małgosia","Asia"};
-		System.out.println(namesOfParticipants[1]);
+System.out.println(namesOfParticipants[1]);
 		System.out.println(namesOfParticipants.length);
 			
 		namesOfParticipants[0] = "Ela";
