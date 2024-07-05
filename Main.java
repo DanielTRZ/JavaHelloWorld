@@ -43,7 +43,7 @@ System.out.println("Nie wygrałeś");
 if(randomNumber >= 0.6) {
 System.out.println("Wygrałeś 2 nagrodę");}
 		
-		if(randomNumber >= 0.8) {
+if(randomNumber >= 0.8) {
 			System.out.println("Wygrałeś 1 nagrodę");
 		}
 		else {
