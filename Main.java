@@ -47,7 +47,7 @@ if(randomNumber >= 0.8) {
 System.out.println("Wygrałeś 1 nagrodę");
 }
 else {
-			System.out.println("Nie wygrałeś");
+System.out.println("Nie wygrałeś");
 		}
 			
 		
