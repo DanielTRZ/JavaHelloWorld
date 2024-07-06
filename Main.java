@@ -65,7 +65,7 @@ userCars[2] = "Bmw";
 userCars[3] = "Audi";
 System.out.println( "Samochody do wypożyczenia  :" + Arrays.toString(userCars));
 		
-		String[] wiekUzytkownikow = new String[4];
+String[] wiekUzytkownikow = new String[4];
 		wiekUzytkownikow[0] = "Lat 25";
 		wiekUzytkownikow[1] = "Lat 36";
 		wiekUzytkownikow[2] = "Lat 40";
