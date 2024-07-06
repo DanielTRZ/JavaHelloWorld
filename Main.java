@@ -59,7 +59,7 @@ System.out.println(namesOfParticipants[0]);
 System.out.println(Arrays.toString(namesOfParticipants));	
 		
 String[] userCars = new String[4];
-		userCars[0] = "Fiat Panda";
+userCars[0] = "Fiat Panda";
 		userCars[1] = "Mercedes";
 		userCars[2] = "Bmw";
 		userCars[3] = "Audi";
