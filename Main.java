@@ -56,7 +56,6 @@ System.out.println(namesOfParticipants.length);
 			
 namesOfParticipants[0] = "Ela";
 System.out.println(namesOfParticipants[0]);
-		
 System.out.println(Arrays.toString(namesOfParticipants));	
 		
 		String[] userCars = new String[4];
