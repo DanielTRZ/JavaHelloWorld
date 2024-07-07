@@ -72,7 +72,7 @@ wiekUzytkownikow[2] = "Lat 40";
 wiekUzytkownikow[3] = "Lat 56";
 System.out.println( "Wiek Użytkowników" + Arrays.toString(wiekUzytkownikow));
 		
-		 int liczba = 1; 
+int liczba = 1; 
 		 while(liczba <= 5) {
 			 
 			 System.out.println("Liczba: " + liczba);
