@@ -82,7 +82,7 @@ liczba = liczba + 1;
 double liczba2 = Math.random(); 
 while(liczba2 < 0.8){
 			
-			  System.out.println("Wylosowana liczba to :" + liczba2);
+System.out.println("Wylosowana liczba to :" + liczba2);
 			 liczba2 = Math.random(); 
 		      }
 		      System.out.println("Wygrałeś liczba to :" + liczba2);
