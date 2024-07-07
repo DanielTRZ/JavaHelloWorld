@@ -87,7 +87,7 @@ liczba2 = Math.random();
 }
 System.out.println("Wygrałeś liczba to :" + liczba2);
 		
-		 String[] dziewczyny = {"Monika","Klaudia","Iwona","Małgosia","Asia"};
+String[] dziewczyny = {"Monika","Klaudia","Iwona","Małgosia","Asia"};
 		 for(int index = 0 ; index < 5; index++) {
 			 System.out.println(dziewczyny[index]);
 		 }
