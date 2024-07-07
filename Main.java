@@ -77,7 +77,7 @@ while(liczba <= 5) {
 			 
 System.out.println("Liczba: " + liczba);
 liczba = liczba + 1;
-		 }
+}
 		
 		 double liczba2 = Math.random(); 
 		 while(liczba2 < 0.8){
