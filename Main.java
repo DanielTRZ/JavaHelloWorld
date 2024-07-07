@@ -84,7 +84,7 @@ while(liczba2 < 0.8){
 			
 System.out.println("Wylosowana liczba to :" + liczba2);
 liczba2 = Math.random(); 
-		      }
+}
 		      System.out.println("Wygrałeś liczba to :" + liczba2);
 		
 		 String[] dziewczyny = {"Monika","Klaudia","Iwona","Małgosia","Asia"};
