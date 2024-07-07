@@ -79,7 +79,7 @@ System.out.println("Liczba: " + liczba);
 liczba = liczba + 1;
 }
 		
-		 double liczba2 = Math.random(); 
+double liczba2 = Math.random(); 
 		 while(liczba2 < 0.8){
 			
 			  System.out.println("Wylosowana liczba to :" + liczba2);
