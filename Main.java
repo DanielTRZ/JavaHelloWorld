@@ -96,7 +96,6 @@ System.out.println(dziewczyny[index]);
 //String name2 ="Klaudia";
 //boolean czyImionasaTeSame = name1 == name2; 
 	
-			
-	}
+}
 
 }
